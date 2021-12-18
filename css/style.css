@@ -1,0 +1,105 @@
+header{
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 79px;
+}
+.logo { display: inline-block; 
+        width:101px;
+       height: 31px;
+}
+.navLi {
+  list-style-type: none;
+  display: inline-block;
+  padding-bottom:0px;
+  padding-left: 0px;
+  margin-left: 31px;
+  font-size: 22px;
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  text-align:left;
+color: #3D58A6;
+}
+a {text-decoration: none;
+color:#3D58A6; 
+}
+.active a{
+  color: #EE4036;}
+section{
+  margin-left: 98px;
+  margin-bottom: 123px;
+}
+.HTMLphoto{ 
+	width: 1171px;
+	height: 460px;
+  padding-bottom: 0px;
+}
+.section{
+  margin-left: 98px;
+}
+h3{
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
+  color: #000000;
+  text-align: left;
+  margin-bottom: 33px;
+  height: 23px;
+}
+  .imgtext {
+  position: absolute;
+  top: 171px;
+  padding-left: 39px;
+  font-size: 30px;
+  font-family: Roboto-Bold;
+  text-align: left; 
+  width: 300px;
+  height: 166px;
+  color: #E6E6E6;
+  }
+  .div{
+    display: flex;
+  }
+.div1{
+  display: flex;
+}
+.div2{
+  display: flex;
+}
+.section1{
+  background-color: #F2F2F2;
+  margin-right: 29px;
+  width: 570px;
+  height: 225px;
+}
+.section2{
+  background-color: #F2F2F2;
+  margin-right: 29px;
+  width: 570px;
+  height: 225px;}
+  .infotitle{
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    color: #3D58A6;
+    margin-top: 18px;
+    margin-bottom: 17px;
+  }
+  .infoimg{
+    height: 128px;
+    margin-bottom: 42px;
+  }
+  .infotext{
+    font-size: 20px;
+   font-family: 'Roboto', sans-serif;
+   color: #333333;
+   margin-left: 60px;
+   margin-right: 33px;
+   width: 338px;
+  }
+ .footer{ color: #3D58A6;
+  margin-left: 109px;
+  text-align: left;}
+ .vertical-line{
+        border-left: 2px solid #3D58A6;
+        display: inline-block;
+        height: 27px;
+        width:0px;
+        margin:0 32px;
+        color: blue;}

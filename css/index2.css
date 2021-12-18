@@ -1,0 +1,84 @@
+header{
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.logo { display: inline-block; 
+       width:101px;
+       height: 31px;
+}
+.navLi {
+  list-style-type: none;
+  display: inline-block;
+  padding-bottom:0px;
+  padding-left: 0px;
+  margin-left: 31px;
+  font-size: 22px;
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  text-align:left;
+color: #3D58A6;
+}
+a {text-decoration: none;
+color:#3D58A6;
+}
+.active a{
+  color: #EE4036;}
+
+article {
+  margin-bottom:100px;
+}
+.numbers {
+    font-size: 48px;
+    color: #FFFFFF;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    background-color: #3D58A6;
+    width: 56px;
+    height: 56px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    text-align: left;
+    padding-top: 12px;
+    padding-left: 6px;
+    padding-bottom: 8px;
+}
+.h1title {
+    width: 47px;
+    margin-bottom: 31px;
+    margin-left: 31px;
+    font-size: 22px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    text-align: left;
+}
+.h2{margin-left: 30px;
+  margin-bottom: 22px;
+font-size: 20px;
+font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.div{
+  display: flex;
+}
+.articleImage{
+    width: 271px;
+    height: 211px;
+    margin-left: 30px;
+  }
+
+p{width:920px;
+  height: 335px;
+  margin-left: 38px;
+  margin-bottom: 64px;
+font-size: 16px;
+font-family: "BPG Ingiri Arial", sans-serif;
+text-align: left;
+}
+.footer{
+  margin-left: 33px;
+  text-align: left;}
+ .vertical-line{
+        border-left: 2px solid #3D58A6;
+        display: inline-block;
+        height: 27px;
+        width:0px;
+        margin:0 32px;
+        color: blue;}

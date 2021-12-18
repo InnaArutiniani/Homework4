@@ -1,0 +1,69 @@
+header{
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.logo { display: inline-block; 
+        width:101px;
+       height: 31px;
+}
+.navLi {
+  list-style-type: none;
+  display: inline-block;
+  padding-bottom:0px;
+  padding-left: 0px;
+  margin-left: 31px;
+  font-size: 22px;
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  text-align:left;
+color: #3D58A6;
+}
+a {text-decoration: none;
+color:#3D58A6; 
+}
+.active a{
+  color: #EE4036;}
+.p{text-align: left;
+  font-family: "BPG Ingiri Arial", sans-serif;
+    font-size: 16px;
+    margin-top: 12px;
+    padding-left: 98px;
+    padding-top: 59px;
+    padding-bottom: 421px;
+    line-height: 20px;
+    color: #CFCFCF;
+}
+.contactA {text-align: center;
+  font-family: "BPG Ingiri Arial", sans-serif;
+  font-size: 16px;
+  color: #000000;
+}
+.Contact{
+         margin-bottom: 272px;
+         text-align: center;
+         font-family: "BPG Nino Mtavruli Bold", sans-serif;
+        font-size: 20px;
+        color:#3D58A6
+}
+h1{text-align: left;
+  font-family: "BPG Ingiri Arial", sans-serif;
+  font-size: 20px;
+  color: #3D58A6;
+
+}
+.address{
+  display: flex;
+}
+main{
+  margin-top: 30px;
+  margin-bottom: 31px;
+}
+  .footer{
+  margin-left: 30px;
+  text-align: left;}
+ .vertical-line{
+        border-left: 2px solid #3D58A6;
+        display: inline-block;
+        height: 27px;
+        width:0px;
+        margin:0 32px;
+        color: blue;}
